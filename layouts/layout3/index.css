@@ -1,0 +1,25 @@
+div{
+    height: 200px;
+    border: 2px solid gray;
+}
+
+.div-one{
+    background-color: red;
+
+}
+
+.div-two{
+    background-color: blue;
+    display: flex;
+    height: 500px;   
+}
+
+.div-two-parte{
+    flex-grow: 1;
+    height: 500px;  
+}
+
+.grow{
+    flex-grow: 3;
+}
+

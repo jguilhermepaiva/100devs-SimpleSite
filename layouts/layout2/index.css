@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    border: 2px solid gray;
+}
+
+.div-one{
+    background-color: red;
+    height: 150px;
+}
+
+.div-two{
+    background-color: blue;
+    display: flex;
+}
+
+
+.div-three{
+    background-color: greenyellow;
+    display: flex;
+    height: 250px;
+}
+
+.div-three-parte:first-child{
+    width: 40%;
+}
+
+.div-three div{
+    height: 250px;
+}
